@@ -1,0 +1,9 @@
+Brilliant Directories is a platform for building membership and directory websites.
+
+Website administrators can manage members, listings, website pages, and subscriptions.
+
+When troubleshooting a website issue, collect the affected page URL, the error message, and the steps that caused the issue.
+
+Before making major website changes, review the requirements and obtain approval from the website owner.
+
+Support replies should be clear, polite, and explain the next troubleshooting step.
