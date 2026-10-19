@@ -138,11 +138,3 @@ This is an early-stage prototype, not a complete autonomous AI system. It uses T
 - [ ] Add deployment instructions and a demonstration video.
 
 ---
-
-## 👨‍💻 Author
-
-**Created by Narendar**
-
----
-
-*Built as a learning prototype for practical business automation and AI workflow development.*"# AI-Tech-Consultant" 
